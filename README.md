@@ -21,7 +21,7 @@ This project is meant to explore, analyse and visualize aviation accidents and r
 
 **Data Set Characteristics:**
 
-    #### This dataset includes:
+### This dataset includes:
         - All civil and commercial aviation accidents of scheduled and non-scheduled passenger airliners worldwide, which resulted in a fatality (including all U.S. Part 121 and Part 135 fatal accidents).
         - All cargo, positioning, ferry and test flight fatal accidents.
         - All military transport accidents with 10 or more fatalities.
@@ -30,7 +30,7 @@ This project is meant to explore, analyse and visualize aviation accidents and r
         - Aviation accidents involving the death of famous people.
         - Aviation accidents or incidents of noteworthy interest.
         
-   #### Attribute Information:
+### Attribute Information:
         - Date:      Date of accident, in the format - January 01, 2001
         - Time:      Local time, in 24 hr. format unless otherwise specified
         - Location:  Location of the accident
@@ -46,7 +46,7 @@ This project is meant to explore, analyse and visualize aviation accidents and r
         - Summary:   Brief description of the accident and cause if known
 
 
-    #### Missing Attribute Values: 
+### Missing Attribute Values: 
         - Date               0
         - Time            2219
         - Location          20
